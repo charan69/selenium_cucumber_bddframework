@@ -19,12 +19,7 @@ public class WaitHelper {
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
 
-	public void waitforElementTobeClickable(WebElement element, long waittime) {
-		WebDriverWait wait = new WebDriverWait(driver, waittime);
-		wait.until(ExpectedConditions.elementToBeClickable(element));
-	}
-
-	public void waitforElementTobeClickableNew(By element, int waittime) {
+	public void waitforElementTobeClickable(By element, int waittime) {
 		WebDriverWait wait = new WebDriverWait(driver, waittime);
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 

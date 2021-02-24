@@ -58,12 +58,12 @@ public class AddCustomerPage {
 	    }
 
 	    public void clickOnCustomersMenu() {
-	    	whelper.waitforElementTobeClickableNew(lnkCustomers_menu, 30);
+	    	whelper.waitforElementTobeClickable(lnkCustomers_menu, 30);
 	        ldriver.findElement(lnkCustomers_menu).click();
 	    }
 
 	    public void clickOnCustomersMenuItem() {
-	    	whelper.waitforElementTobeClickableNew(lnkCustomers_menuitem, 30);
+	    	whelper.waitforElementTobeClickable(lnkCustomers_menuitem, 30);
 	        ldriver.findElement(lnkCustomers_menuitem).click();
 	    }
 
