@@ -32,21 +32,21 @@ public class Steps extends BaseClass {
 		PropertyConfigurator.configure("log4j.properties");
 		String br = configProp.getProperty("browser");
 		if (br.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver",configProp.getProperty("chromepath"));
+			System.setProperty("webdriver.chrome.driver", configProp.getProperty("chromepath"));
 			driver = new ChromeDriver();
-		}
-		else if (br.equals("firefox")) {
+		} else if (br.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver", configProp.getProperty("firefoxpath"));
 			driver = new FirefoxDriver();
-		}
-		else if(br.equals("edge")) {
+		} else if (br.equals("edge")) {
 			System.setProperty("webdriver.edge.driver", configProp.getProperty("edgepath"));
 			driver = new EdgeDriver();
-			
+
 		}
 		logger.info("Launching  browser");
 
 	}
+
+	
 
 	@Given("^User Launch Chrome browser$")
 	public void user_Launch_Chrome_browser() throws Throwable {

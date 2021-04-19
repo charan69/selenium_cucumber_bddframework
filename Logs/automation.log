@@ -1221,3 +1221,749 @@
 2021-02-24 13:45:05,487  INFO [main] nopCommerce:67 - Entering credentials
 2021-02-24 13:45:06,448  INFO [main] nopCommerce:74 - Clicked on login
 2021-02-24 13:45:07,847  INFO [main] nopCommerce:81 - *********Login Failed ***************
+2021-02-24 15:20:50,653  INFO [main] nopCommerce:47 - Launching  browser
+2021-02-24 15:20:53,574  INFO [main] nopCommerce:61 - opening URL 
+2021-02-24 15:20:55,758  INFO [main] nopCommerce:67 - Entering credentials
+2021-02-24 15:20:55,972  INFO [main] nopCommerce:74 - Clicked on login
+2021-02-24 15:20:59,709  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-02-24 15:20:59,711  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-03-09 13:38:58,871  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-09 13:39:01,964  INFO [main] nopCommerce:61 - opening URL 
+2021-03-09 13:39:01,989  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-09 13:39:02,419  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-09 13:39:07,926  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-09 13:39:08,214  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-03-09 13:39:08,648  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-03-09 13:39:10,963  INFO [main] nopCommerce:61 - opening URL 
+2021-03-09 13:39:10,980  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-09 13:39:11,161  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-09 13:39:16,682  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-03-09 13:39:16,684  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-03-09 13:39:26,096  INFO [main] nopCommerce:196 - ********* Search customer by email validation ***************
+2021-03-09 13:39:26,136  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-03-15 16:37:55,559  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:37:58,527  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:37:58,545  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:37:58,761  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:38:02,166  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:38:04,965  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:38:04,972  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:38:05,081  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:38:08,886  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:38:10,878  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:38:10,890  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:38:11,175  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:38:15,498  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:38:17,523  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:38:17,537  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:38:17,721  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:38:23,506  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:38:25,623  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:38:25,629  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:38:25,810  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:38:30,822  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:38:33,410  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:38:33,424  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:38:33,545  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:38:37,451  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:38:40,159  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:38:40,174  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:38:40,331  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:42:52,553  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:42:55,737  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:42:55,868  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:42:56,127  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:42:57,456  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:43:00,892  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:43:01,022  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:43:01,260  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:43:02,549  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:43:06,303  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:43:06,448  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:43:06,757  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:43:08,191  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:43:14,417  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:43:14,550  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:43:14,771  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:43:16,083  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:43:20,406  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:43:20,556  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:43:20,784  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:43:22,372  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:43:25,806  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:43:25,937  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:43:26,198  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:43:27,562  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:43:31,189  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:43:31,328  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:43:31,621  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:45:38,951  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:45:42,838  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:45:42,973  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:45:43,212  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:45:47,651  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-03-15 16:45:47,653  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-03-15 16:46:23,993  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:46:27,343  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:46:27,604  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:46:27,854  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:46:32,037  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-03-15 16:46:32,038  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-03-15 16:47:08,906  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:47:12,364  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:47:12,513  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:47:12,780  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:47:16,509  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-03-15 16:47:16,510  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-03-15 16:47:52,827  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:47:55,481  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:47:55,612  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:47:55,859  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:47:59,667  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-03-15 16:47:59,668  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-03-15 16:48:36,389  INFO [main] nopCommerce:47 - Launching  browser
+2021-03-15 16:48:39,513  INFO [main] nopCommerce:61 - opening URL 
+2021-03-15 16:48:39,645  INFO [main] nopCommerce:67 - Entering credentials
+2021-03-15 16:48:39,866  INFO [main] nopCommerce:74 - Clicked on login
+2021-03-15 16:48:44,188  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-03-15 16:48:44,203  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-03-15 16:48:50,625  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-03-15 16:48:50,631  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-03-15 16:48:52,604  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:05:56,687  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:06:00,357  INFO [main] nopCommerce:61 - opening URL 
+2021-04-05 15:06:00,526  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-05 15:06:00,758  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-05 15:06:05,446  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-05 15:06:05,451  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-05 15:06:42,428  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:06:45,505  INFO [main] nopCommerce:61 - opening URL 
+2021-04-05 15:06:45,640  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-05 15:06:45,861  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-05 15:06:49,673  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-05 15:06:49,674  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-05 15:07:26,603  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:07:29,767  INFO [main] nopCommerce:61 - opening URL 
+2021-04-05 15:07:29,909  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-05 15:07:30,117  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-05 15:07:33,322  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-05 15:07:33,322  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-05 15:08:09,820  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:08:12,922  INFO [main] nopCommerce:61 - opening URL 
+2021-04-05 15:08:13,072  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-05 15:08:13,297  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-05 15:08:18,073  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-05 15:08:18,073  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-05 15:08:55,013  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:08:58,519  INFO [main] nopCommerce:61 - opening URL 
+2021-04-05 15:08:58,653  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-05 15:08:58,886  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-05 15:09:02,668  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-05 15:09:02,717  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-05 15:09:11,169  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-05 15:09:11,175  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-05 15:09:13,203  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:09:16,746  INFO [main] nopCommerce:61 - opening URL 
+2021-04-05 15:09:16,884  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-05 15:09:17,088  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-05 15:09:21,776  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-05 15:09:21,790  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-05 15:09:28,898  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-05 15:09:28,905  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-05 15:09:31,320  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-05 15:09:34,612  INFO [main] nopCommerce:61 - opening URL 
+2021-04-05 15:09:34,749  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-05 15:09:35,013  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-05 15:09:35,609  INFO [main] nopCommerce:81 - *********Login Failed ***************
+2021-04-06 16:34:44,327  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-06 16:34:47,440  INFO [main] nopCommerce:61 - opening URL 
+2021-04-06 16:34:47,578  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-06 16:34:47,825  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-06 16:34:52,726  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-06 16:34:52,753  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-06 16:35:29,862  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-06 16:35:36,531  INFO [main] nopCommerce:61 - opening URL 
+2021-04-06 16:35:36,682  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-06 16:35:36,896  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-06 16:35:41,335  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-06 16:35:41,335  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-06 16:36:17,913  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-06 16:36:23,079  INFO [main] nopCommerce:61 - opening URL 
+2021-04-06 16:36:23,256  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-06 16:36:23,530  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-06 16:36:26,985  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-06 16:36:26,985  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-06 16:37:03,949  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-06 16:37:07,139  INFO [main] nopCommerce:61 - opening URL 
+2021-04-06 16:37:07,291  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-06 16:37:07,686  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-06 16:37:12,595  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-06 16:37:12,596  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-06 16:37:49,492  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-06 16:37:51,919  INFO [main] nopCommerce:61 - opening URL 
+2021-04-06 16:37:52,058  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-06 16:37:52,271  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-06 16:37:55,038  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-06 16:37:55,063  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-06 16:38:01,633  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-06 16:38:01,637  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-06 16:38:04,149  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-06 16:38:07,929  INFO [main] nopCommerce:61 - opening URL 
+2021-04-06 16:38:08,079  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-06 16:38:08,328  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-06 16:38:12,800  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-06 16:38:12,810  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-06 16:38:20,716  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-06 16:38:20,721  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-06 16:38:22,780  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-06 16:38:26,527  INFO [main] nopCommerce:61 - opening URL 
+2021-04-06 16:38:26,669  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-06 16:38:26,941  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-06 16:38:28,211  INFO [main] nopCommerce:81 - *********Login Failed ***************
+2021-04-18 13:19:51,417  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-18 13:19:54,670  INFO [main] nopCommerce:61 - opening URL 
+2021-04-18 13:19:54,817  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-18 13:19:55,035  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-18 13:20:08,094  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-18 13:20:08,162  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-18 13:20:15,927  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-18 13:20:15,933  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-18 13:20:17,907  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-18 13:20:21,298  INFO [main] nopCommerce:61 - opening URL 
+2021-04-18 13:20:21,419  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-18 13:20:21,653  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-18 13:20:25,994  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-18 13:20:26,022  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-18 13:20:33,069  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-18 13:20:33,076  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-18 13:20:35,064  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-18 13:20:38,053  INFO [main] nopCommerce:61 - opening URL 
+2021-04-18 13:23:09,436  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-18 13:23:12,245  INFO [main] nopCommerce:61 - opening URL 
+2021-04-18 13:23:12,600  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-18 13:23:13,011  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-18 13:23:18,636  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-18 13:23:18,665  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-18 13:26:09,584  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-18 13:28:28,474  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-18 13:28:31,632  INFO [main] nopCommerce:61 - opening URL 
+2021-04-18 13:28:31,782  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-18 13:28:31,984  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-18 13:28:35,425  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-18 13:28:35,430  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 15:02:23,266  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-19 15:02:26,361  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 15:02:26,499  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 15:02:26,723  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 15:02:30,499  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:02:30,535  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 15:02:37,573  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:02:37,580  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 15:03:38,979  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-19 15:03:41,567  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 15:03:41,720  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 15:03:41,954  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 15:03:45,454  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:03:45,468  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 15:03:51,833  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:03:51,840  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 15:04:30,977  INFO [main] nopCommerce:47 - Launching  browser
+2021-04-19 15:04:34,323  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 15:04:34,456  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 15:04:34,689  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 15:04:39,697  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:04:39,738  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 15:04:46,788  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:04:46,796  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 15:53:21,710  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 15:53:24,287  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 15:53:24,435  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 15:53:24,714  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 15:53:28,367  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:53:28,470  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 15:53:34,898  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:53:34,908  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 15:53:40,484 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,491 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 15:53:40,520 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 15:53:40,521 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 15:53:40,701 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,702 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 15:53:40,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 15:53:40,703 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 15:53:40,726 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,727 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 15:53:40,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 15:53:40,728 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 15:53:40,737 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 15:53:40,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 15:53:40,739 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 15:53:40,756 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,757 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 15:53:40,758 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 15:53:40,758 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 15:53:40,791 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,792 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 15:53:40,794 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 15:53:40,794 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 15:53:40,863 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,864 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 15:53:40,864 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 15:53:40,865 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 15:53:40,875 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,876 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 15:53:40,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 15:53:40,878 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 15:53:40,890 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,891 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 15:53:40,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 15:53:40,894 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 15:53:40,901 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,902 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 15:53:40,903 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 15:53:40,903 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 15:53:40,913 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:53:40,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 15:53:40,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 15:53:40,915 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-04-19 15:54:18,338  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 15:54:21,448  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 15:54:21,592  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 15:54:21,860  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 15:54:25,451  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:54:25,553  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 15:54:32,620  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:54:32,628  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 15:54:35,731 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:35,733 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 15:54:35,735 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 15:54:35,735 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 15:54:35,902 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:35,902 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 15:54:35,903 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 15:54:35,903 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 15:54:35,924 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:35,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 15:54:35,927 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 15:54:35,927 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 15:54:35,934 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:35,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 15:54:35,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 15:54:35,936 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 15:54:35,949 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:35,950 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 15:54:35,950 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 15:54:35,951 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 15:54:35,966 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:35,967 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 15:54:35,968 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 15:54:35,968 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 15:54:36,004 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:36,006 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 15:54:36,007 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 15:54:36,007 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 15:54:36,023 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:36,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 15:54:36,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 15:54:36,028 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 15:54:36,041 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:36,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 15:54:36,048 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 15:54:36,049 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 15:54:36,054 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:36,056 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 15:54:36,056 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 15:54:36,057 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 15:54:36,064 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:54:36,065 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 15:54:36,067 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 15:54:36,068 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-04-19 15:54:56,287  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 15:54:59,474  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 15:54:59,616  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 15:54:59,833  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 15:55:03,653  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:55:03,718  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 15:55:10,916  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:55:10,922  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 15:55:11,738 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:11,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 15:55:11,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 15:55:11,742 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 15:55:11,900 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:11,900 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 15:55:11,901 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 15:55:11,901 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 15:55:11,925 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:11,927 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 15:55:11,927 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 15:55:11,928 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 15:55:11,937 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:11,939 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 15:55:11,939 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 15:55:11,940 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 15:55:11,958 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:11,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 15:55:11,960 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 15:55:11,961 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 15:55:11,975 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:11,976 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 15:55:11,977 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 15:55:11,978 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 15:55:12,013 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:12,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 15:55:12,020 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 15:55:12,021 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 15:55:12,032 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:12,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 15:55:12,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 15:55:12,035 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 15:55:12,053 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:12,054 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 15:55:12,059 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 15:55:12,061 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 15:55:12,072 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:12,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 15:55:12,074 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 15:55:12,074 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 15:55:12,084 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:55:12,086 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 15:55:12,086 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 15:55:12,087 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-04-19 15:56:54,863  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 15:56:56,751  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 15:56:56,882  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 15:56:57,125  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 15:56:59,600  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:56:59,663  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 15:57:06,150  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 15:57:06,157  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 15:57:07,007 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 15:57:07,012 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 15:57:07,013 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 15:57:07,177 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,177 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 15:57:07,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 15:57:07,178 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 15:57:07,195 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,196 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 15:57:07,197 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 15:57:07,197 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 15:57:07,203 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,204 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 15:57:07,204 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 15:57:07,205 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 15:57:07,215 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 15:57:07,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 15:57:07,216 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 15:57:07,224 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,224 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 15:57:07,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 15:57:07,226 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 15:57:07,255 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 15:57:07,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 15:57:07,258 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 15:57:07,261 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 15:57:07,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 15:57:07,263 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 15:57:07,267 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,268 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 15:57:07,269 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 15:57:07,269 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 15:57:07,273 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,275 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 15:57:07,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 15:57:07,277 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 15:57:07,280 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 15:57:07,281 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 15:57:07,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 15:57:07,282 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-04-19 16:01:11,674  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:01:15,133  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:01:15,278  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:01:15,613  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:01:20,474  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:01:20,523  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 16:01:26,972  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:01:26,979  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 16:01:27,821 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:27,822 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 16:01:27,825 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 16:01:27,826 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 16:01:27,986 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:27,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 16:01:27,989 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 16:01:27,989 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 16:01:28,013 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 16:01:28,015 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 16:01:28,015 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 16:01:28,024 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 16:01:28,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 16:01:28,026 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 16:01:28,044 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 16:01:28,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 16:01:28,047 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 16:01:28,059 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 16:01:28,061 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 16:01:28,061 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 16:01:28,108 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 16:01:28,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 16:01:28,110 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 16:01:28,116 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 16:01:28,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 16:01:28,119 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 16:01:28,126 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 16:01:28,128 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 16:01:28,128 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 16:01:28,132 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 16:01:28,133 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 16:01:28,133 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 16:01:28,140 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:01:28,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 16:01:28,142 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 16:01:28,142 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-04-19 16:02:57,300  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:03:00,520  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:03:00,663  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:03:00,887  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:03:05,844  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:03:05,877  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 16:03:12,509  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:03:12,515  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 16:03:13,345 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 16:03:13,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 16:03:13,353 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 16:03:13,524 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 16:03:13,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 16:03:13,527 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 16:03:13,552 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 16:03:13,555 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 16:03:13,556 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 16:03:13,568 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,569 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 16:03:13,572 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 16:03:13,575 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 16:03:13,611 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,613 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 16:03:13,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 16:03:13,615 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 16:03:13,635 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,636 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 16:03:13,637 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 16:03:13,637 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 16:03:13,688 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,689 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 16:03:13,690 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 16:03:13,690 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 16:03:13,696 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,697 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 16:03:13,697 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 16:03:13,698 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 16:03:13,703 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 16:03:13,705 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 16:03:13,706 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 16:03:13,711 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 16:03:13,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 16:03:13,713 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 16:03:13,722 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:03:13,723 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 16:03:13,723 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 16:03:13,725 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-04-19 16:06:57,705  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:07:00,179  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:07:00,324  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:07:00,533  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:07:04,285  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:07:04,289  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:07:40,855  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:07:44,155  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:07:44,284  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:07:44,533  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:07:47,607  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:07:47,608  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:08:24,492  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:08:27,734  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:08:27,886  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:08:28,107  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:08:32,477  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:08:32,478  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:09:09,528  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:09:12,669  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:09:12,806  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:09:13,030  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:09:16,916  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:09:16,917  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:09:53,828  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:09:55,629  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:09:55,764  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:09:55,995  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:09:58,464  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:09:58,495  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 16:10:04,844  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:10:04,849  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 16:10:07,260  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:10:10,347  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:10:10,480  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:10:10,717  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:10:14,250  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:10:14,258  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 16:10:21,589  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:10:21,594  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 16:10:23,667  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:10:29,104  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:10:29,232  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:10:29,439  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:10:30,624  INFO [main] nopCommerce:81 - *********Login Failed ***************
+2021-04-19 16:10:31,489 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 16:10:31,493 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 16:10:31,494 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 16:10:31,669 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,670 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 16:10:31,671 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 16:10:31,671 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 16:10:31,692 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 16:10:31,695 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 16:10:31,696 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 16:10:31,702 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,702 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 16:10:31,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 16:10:31,703 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 16:10:31,715 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,716 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 16:10:31,717 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 16:10:31,718 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 16:10:31,735 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,735 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 16:10:31,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 16:10:31,736 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 16:10:31,789 DEBUG [main] cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-04-19 16:10:31,794 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,795 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 16:10:31,795 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 16:10:31,796 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 16:10:31,801 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,802 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 16:10:31,803 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 16:10:31,804 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 16:10:31,812 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 16:10:31,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 16:10:31,815 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 16:10:31,831 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 16:10:31,833 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 16:10:31,834 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 16:10:31,852 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:10:31,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 16:10:31,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 16:10:31,854 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-04-19 16:16:24,401  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:16:27,694  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:16:27,838  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:16:28,087  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:16:31,499  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:16:31,505  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:17:08,281  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:17:35,550  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:17:35,693  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:17:35,909  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:17:46,060  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:17:46,060  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:18:22,616  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:18:25,868  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:18:26,000  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:18:26,246  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:18:29,419  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:18:29,420  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:19:06,292  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:19:08,159  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:19:08,337  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:19:08,601  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:19:11,857  INFO [main] nopCommerce:110 - ********* Adding Customer Scenario started  ***************
+2021-04-19 16:19:11,858  INFO [main] nopCommerce:112 - ********* Dashboard Display validation ***************
+2021-04-19 16:19:48,351  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:19:51,826  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:19:51,988  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:19:52,279  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:19:55,963  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:19:56,013  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 16:20:02,753  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:20:02,761  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 16:20:04,908  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:20:08,107  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:20:08,242  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:20:08,455  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:20:11,404  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:20:11,432  INFO [main] nopCommerce:93 - *********Logout from application***************
+2021-04-19 16:20:19,416  INFO [main] nopCommerce:85 - *********Login successfull ***************
+2021-04-19 16:20:19,425  INFO [main] nopCommerce:100 - *********Closing application ***************
+2021-04-19 16:20:21,635  INFO [main] nopCommerce:45 - Launching  browser
+2021-04-19 16:20:24,646  INFO [main] nopCommerce:61 - opening URL 
+2021-04-19 16:20:24,793  INFO [main] nopCommerce:67 - Entering credentials
+2021-04-19 16:20:24,985  INFO [main] nopCommerce:74 - Clicked on login
+2021-04-19 16:20:26,163  INFO [main] nopCommerce:81 - *********Login Failed ***************
+2021-04-19 16:20:26,914 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:26,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-04-19 16:20:26,917 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-04-19 16:20:26,917 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-04-19 16:20:27,072 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-04-19 16:20:27,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-04-19 16:20:27,073 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-04-19 16:20:27,091 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,092 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-04-19 16:20:27,092 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-04-19 16:20:27,093 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-04-19 16:20:27,100 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-04-19 16:20:27,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-04-19 16:20:27,101 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-04-19 16:20:27,115 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-04-19 16:20:27,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-04-19 16:20:27,117 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-04-19 16:20:27,130 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,131 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd_en.ftl"): Not found
+2021-04-19 16:20:27,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/bdd.ftl"): Found
+2021-04-19 16:20:27,132 DEBUG [main] cache:45 - Loading template for "test-view/bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/test-view/bdd.ftl"
+2021-04-19 16:20:27,174 DEBUG [main] cache:45 - "test-view/bdd.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-04-19 16:20:27,178 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-04-19 16:20:27,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-04-19 16:20:27,180 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-04-19 16:20:27,188 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,191 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-04-19 16:20:27,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-04-19 16:20:27,193 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-04-19 16:20:27,197 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,198 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-04-19 16:20:27,199 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-04-19 16:20:27,199 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-04-19 16:20:27,214 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-04-19 16:20:27,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-04-19 16:20:27,217 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-04-19 16:20:27,227 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-04-19 16:20:27,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-04-19 16:20:27,229 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-04-19 16:20:27,230 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/chara/.m2/repository/com/aventstack/extentreports/3.0.7/extentreports-3.0.7.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
