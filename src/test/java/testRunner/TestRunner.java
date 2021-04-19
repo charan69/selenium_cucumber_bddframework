@@ -17,7 +17,7 @@ import cucumber.api.junit.Cucumber;
 		glue = "stepDefinitions",
 		dryRun = false, 
 		monochrome = true,
-		plugin = {"com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html","pretty","html:test-output"},
+		plugin = {"com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:test-output/report.html","pretty","html:test-output"},
 		tags = {"@sanity,@regression"})
 
 public class TestRunner {
